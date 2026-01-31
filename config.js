@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "هسه اني اكثر انسان محضوظ بالدنيا! 🎉💝💖💝💓",
-        message: "تستاهلين اكبرر حضن هسه",
+        message: "تستاهلين اكبرر حضن",
         emojis: "😽💖❤️💕"  // These will bounce around
     },
 
