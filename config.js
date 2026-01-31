@@ -25,12 +25,12 @@ const CONFIG = {
             text: "تحبيني؟",                                    // First interaction
             yesBtn: "نعم",                                             // Text for "Yes" button
             noBtn: "لاع",                                               // Text for "No" button
-            secretAnswer: "❤️ما احبك، اموتعليك❤️"           // Secret hover message
+            secretAnswer: "❤️  ما احبك، اموتعليك  ❤️"           // Secret hover message
         },
         second: {
             text: "شكد تحبيني؟",                          // For the love meter
             startText: "هلكد",                                   // Text before the percentage
-            nextBtn: "الي بعدو يا حلو❤️"                                         // Text for the next button
+            nextBtn: "الي بعدو❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "هسه اني اكثر انسان محضوظ بالدنيا! 🎉💝💖💝💓",
         message: "تستاهلين اكبرر حضن هسه",
-        emojis: "😻💖🤗😽💋❤️💕"  // These will bounce around
+        emojis: "😽💖❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/dju6udrnq/ef9808dbe95052b5d741857e6e5c22d5", // Music streaming URL
+        musicUrl: "https://collection.cloudinary.com/dju6udrnq/4a6024df6e2980547cd0d19754245756", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
